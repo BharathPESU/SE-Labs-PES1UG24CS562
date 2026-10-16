@@ -1,0 +1,11 @@
+pharmacy_system.py:3:1: F401 'os' imported but unused
+pharmacy_system.py:11:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:19:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:24:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:36:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:63:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:72:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:76:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:84:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:89:1: E302 expected 2 blank lines, found 1
+pharmacy_system.py:106:1: E305 expected 2 blank lines after class or function definition, found 1
